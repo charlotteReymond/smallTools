@@ -53,7 +53,7 @@ def sommeDiviseurs(n):#return the sum of divisors of n
          somme += i
    return(somme)
 
-def average(a,b) :#return the average of a and b
+def average(a,b) :#return the arithmetic average of a and b
    return(a + b) / 2
 
 def squareRoot(num=9,low=2,high=5) :#return the square root 
